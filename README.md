@@ -1,4 +1,5 @@
 # taiko_node
+
 ## Describe the feature request
 A simple tutorial is good, but the step by step on https://taiko.xyz/docs/guides/run-a-taiko-node is too simple. With about 3 lines of code a user could install all prerequisites (docker, git, etc).
 Also, I used a burner wallet. Should I do something about that if I want to receive the famous airdrop?
